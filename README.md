@@ -1,2 +1,2 @@
-# t-org-2-public
-test organization 2 public repository
+# t-org-1-public
+test organization 1 public repository
